@@ -1,3 +1,3 @@
 # Node-Js-Mini-Projects
-# This is a simple web app to craete a list of items
+# This is a simple web app to create a list of items
 # Skill used: HTML5, CSS3, JavaScript, Node Js, Express, Body-Parser,EJS
