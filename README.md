@@ -1,3 +1,2 @@
-# Node-Js-Mini-Projects
-# This is a simple web app to create a list of items
+# This repository contains some of my web development  mini projects created using node js.
 # Skill used: HTML5, CSS3, JavaScript, Node Js, Express, Body-Parser,EJS
